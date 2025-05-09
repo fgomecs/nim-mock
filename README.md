@@ -31,7 +31,7 @@ It mirrors the basic structure of real NIMs like `/v1/completions` and `/v1/embe
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/nim-mock.git
+git clone https://github.com/fgomecs/nim-mock.git
 cd nim-mock
 ```
 
