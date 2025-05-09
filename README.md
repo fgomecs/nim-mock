@@ -77,6 +77,7 @@ curl -X POST http://localhost:8800/v1/mock -H "Content-Type: application/json" -
   "response": "Mock NIM received: What is NIM?"
 }
 ```
+![image](https://github.com/user-attachments/assets/e82130db-a40f-4577-96cf-0ccc19e9f954)
 
 ---
 
