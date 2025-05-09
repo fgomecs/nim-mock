@@ -35,6 +35,11 @@ git clone https://github.com/fgomecs/nim-mock.git
 cd nim-mock
 ```
 
+### Or if using Docker
+```
+docker run --rm -p 8800:8000 fgomecs/mock-nim:latest
+```
+
 ---
 
 ### Build the Docker Image
