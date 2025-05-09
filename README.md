@@ -62,9 +62,7 @@ http://localhost:8800/v1/mock
 ### Test the API
 
 ```bash
-curl -X POST http://localhost:8800/v1/mock \
-  -H "Content-Type: application/json" \
-  -d "{\"prompt\": \"What is NIM?\"}"
+curl -X POST http://localhost:8800/v1/mock -H "Content-Type: application/json" -d "{\"prompt\": \"What is NIM?\"}"
 ```
 
 ✅ Response:
