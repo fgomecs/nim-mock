@@ -39,7 +39,6 @@ cd nim-mock
 ```
 docker run --rm -p 8800:8000 fgomecs/mock-nim:latest
 ```
-
 ---
 
 ### Build the Docker Image
@@ -47,7 +46,6 @@ docker run --rm -p 8800:8000 fgomecs/mock-nim:latest
 ```bash
 docker build -t mock-nim .
 ```
-
 ---
 
 ### Run the Mock NIM Container
@@ -67,7 +65,9 @@ http://localhost:8800/v1/mock
 ### Test the API
 
 ```bash
+
 curl -X POST http://localhost:8800/v1/mock -H "Content-Type: application/json" -d "{\"prompt\": \"What is NIM?\"}"
+
 ```
 
 ✅ Response:
@@ -111,4 +111,6 @@ MIT – use it, extend it, share it. No permission needed.
 ## ✌️ Author
 
 Francisco Gomez – [LinkedIn](https://www.linkedin.com/in/fgomecs)  
+=======
+
 Atlanta-based TPM | Builder | Tinkerer | AI Explorer
