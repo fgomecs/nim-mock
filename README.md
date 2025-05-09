@@ -107,5 +107,5 @@ MIT – use it, extend it, share it. No permission needed.
 
 ## ✌️ Author
 
-Francisco Gomez – [LinkedIn](https://www.linkedin.com/in/francisco-gomez)  
+Francisco Gomez – [LinkedIn](https://www.linkedin.com/in/fgomecs)  
 Atlanta-based TPM | Builder | Tinkerer | AI Explorer
